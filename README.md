@@ -1,3 +1,11 @@
+#America against America
+
+This is an attempt at an English translation of Wang Huning's book "America against America".
+
+Original readme follows below.
+
+-------
+
 # 美国反对美国（America against America）
 
 作者：王沪宁
