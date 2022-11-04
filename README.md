@@ -1,4 +1,4 @@
-#America against America
+# America against America
 
 This is an attempt at an English translation of Wang Huning's book "America against America".
 
